@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ikmannb" target="blank"><img src="https://img.shields.io/twitter/follow/ikmannb?logo=twitter&style=for-the-badge" alt="ikmannb" /></a> </p>
 
-- 🔭 I’m currently working on **DineVerse**
+- 🔭 I’m currently working on **CHAI-HUT**
 
 - 👯 I’m looking to collaborate on **React and Python project**
 
