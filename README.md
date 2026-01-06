@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikmann Bhullar</h1>
 <h3 align="center">A passionate Software Engineer from Seattle, WA</h3>
 
-- 🔭 I’m currently working on **My-Shop
+- 🔭 I’m currently working on **Swap-Spot
 
 - 👯 I’m looking to collaborate on **React and Python project with TailwindCss**
 
