@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ikmann Bhullar</h1>
 <h3 align="center">A passionate Software Engineer from Seattle, WA</h3>
 
-<p align="left"> <a href="https://twitter.com/ikmannb" target="blank"><img src="https://img.shields.io/twitter/follow/ikmannb?logo=twitter&style=for-the-badge" alt="ikmannb" /></a> </p>
-
 - 🔭 I’m currently working on **My-Shop
 
 - 👯 I’m looking to collaborate on **React and Python project with TailwindCss**
